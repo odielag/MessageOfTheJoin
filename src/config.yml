@@ -1,0 +1,21 @@
+#First some general information!
+#To display the players name in the message you can use: <player>
+#Minecraft Chat color coding is supported! (ex: &c I am Red! &n I am White!)
+
+#If the plugin breaks upon an update i am willing to update it free of charge as long as you keep the Name_Project.rar file and you receive on delivery and can send it over.
+#Link to my Fiverr account: https://www.fiverr.com/rukunz
+
+
+#The following message wil be sent to the player when it joins the server for the very first time.
+#NOTE: This message is visible only to the player.
+firstJoin_message_personal: "&7Hello and welcome to our server, &a<player>!"
+
+#A random message that's in the list will be chosen and broadcasted once someone joins the server for the first time.
+#NOTE: This message is visible to all players.
+firstJoin_message_broadcast: 
+   - "&a<player> &7has joined the server for the first time!"
+   - "&7Is it a bird? Is it a plane?! It's &a<player>"
+   - "&c Custom Message 3"
+   - "&c Custom Message 4"
+
+#You can add an infinite amount of messages.

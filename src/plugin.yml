@@ -1,0 +1,12 @@
+name: MessageOfTheJoin
+version: 1.0
+author: Ruben Versavel
+main: org.motj.Main
+description: Custom Join messages and broadcasts.
+commands:
+   motj:
+permissions:
+   motj.test:
+      description: Allows the user to use the "/motj test" command.
+      default: op
+      
